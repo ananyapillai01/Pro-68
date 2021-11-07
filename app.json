@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Pro-68",
+    "slug": "Pro-68",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Pro-68"
+}
